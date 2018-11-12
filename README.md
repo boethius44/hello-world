@@ -11,3 +11,6 @@ _these documents appear to use markdown_
 ## heading 2
 ### heading3
 
+
+## How to make additional changes:
+click the `Commit changes` button (below).
